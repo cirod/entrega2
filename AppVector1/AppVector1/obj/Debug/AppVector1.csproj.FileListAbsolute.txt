@@ -1,0 +1,5 @@
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppVector1\AppVector1\bin\Debug\AppVector1.exe.config
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppVector1\AppVector1\bin\Debug\AppVector1.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppVector1\AppVector1\bin\Debug\AppVector1.pdb
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppVector1\AppVector1\obj\Debug\AppVector1.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppVector1\AppVector1\obj\Debug\AppVector1.pdb
